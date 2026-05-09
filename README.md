@@ -1,0 +1,1 @@
+# minglo-auth-page
